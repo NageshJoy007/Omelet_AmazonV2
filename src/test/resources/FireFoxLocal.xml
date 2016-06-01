@@ -32,10 +32,9 @@
 	    	remoteflag = "false"  
 	    />
 
-		<ClientEnvironment
+		<!-- 	<ClientEnvironment
 	        browsername="internet explorer"
 	    	remoteflag = "false"  
-	    />
-		
+	    /> -->
  	    
 </ClientEnvironments>
